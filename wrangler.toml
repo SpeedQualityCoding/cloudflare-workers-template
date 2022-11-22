@@ -1,0 +1,5 @@
+name = "your-worker-nam"
+main = "src/index.mjs"
+compatibility_date = "2022-10-20"
+
+account_id = "YOUR_ACCOUNT_ID"
